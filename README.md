@@ -5,7 +5,9 @@ ChooseEditText is an edit that can add tag in edit space
 How to use
 =====
 Gradle Dependency
-
+```gradle
+compile 'com.chooseedittext:library:1.0.0'
+```
 
 Usage
 =====
