@@ -12,7 +12,7 @@ compile 'com.chooseedittext:library:1.0.0'
 
 Usage
 =====
-Declare a weekselection inside your layout XML file like this:
+Declare it inside your layout XML file like this:
 ```xml
     <com.library.ChooseEditText
         android:id="@+id/chooseedittext"
