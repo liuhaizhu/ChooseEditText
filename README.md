@@ -1,6 +1,7 @@
 # ChooseEditText
 ChooseEditText is an edit that can add tag in edit space
 
+![](https://github.com/liuhaizhu/ChooseEditText/blob/master/art/example.gif)
 [Examples in youtube](https://youtu.be/pL4dWoM6h_Q)
 How to use
 =====
