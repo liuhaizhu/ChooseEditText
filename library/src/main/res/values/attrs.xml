@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChooseEditText">
+        <attr name="cet_ChooseBgColor" format="reference|color"/>
+        <attr name="cet_ChooseTextColor" format="reference|color"/>
+        <attr name="cet_TextSize" format="reference|dimension"/>
+        <attr name="cet_Hint" format="reference|string"/>
+    </declare-styleable>
+
+</resources>
